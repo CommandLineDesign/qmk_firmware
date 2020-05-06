@@ -68,4 +68,4 @@ endif
 # debug-off: OPT_DEFS := $(filter-out -DCONSOLE_ENABLE,$(OPT_DEFS))
 # debug-off: all
 
-LAYOUTS = 60_hhkb
+LAYOUTS = 60_hhkb JP
